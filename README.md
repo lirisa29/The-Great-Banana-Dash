@@ -8,7 +8,7 @@ This project is a 3D racing game developed using Unity. It demonstrates my skill
    Implemented to handle dialogues between characters. Each dialogue is enqueued, and the system processes and displays them in order.
 
 2. **Stack ADT** – *Checkpoint Management*  
-   Used to store player and AI racer checkpoint progress. The stack tracks the last checkpoint reached, allowing for easy race reset functionality.
+   Used to store player checkpoint progress. The stack tracks the last checkpoint reached, allowing for easy race reset functionality.
 
 3. **Linked List ADT** – *Waypoint Navigation for AI*  
    AI racers use a linked list to store a sequence of waypoints on the race track. This allows the AI to target specific waypoints in the optimal order during the race.
