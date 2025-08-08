@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b594af7af423404283dabf6753d5ef7, type: 3}
+  m_Name: AdvancedDialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: da274dd57c8ad5b48ab2527618da2281, type: 3}
+    dialogueText: "Alright, kid. The Final Showdown. The jungle\u2019s toughest paths,
+      the fiercest competition. Everything\u2019s led to this."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 5f9fa32528f1bd7489fbbaf248b28bbe, type: 3}
+    dialogueText: "I\u2019m ready for whatever comes next!"
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: b1df21bf796bfb54c90743d26bae08a3, type: 3}
+    dialogueText: "You\u2019ve got heart, I\u2019ll give you that. But this race?
+      It\u2019s all about choices. Three paths: Speed, Agility, or Balanced. Speed\u2019s
+      risky, Agility\u2019s slower but controlled, and Balanced is... well, balanced."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 25c5858dadac12842959fbe682b1ed55, type: 3}
+    dialogueText: Which one should I pick?
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 3b2c433ac6cf45f4a9934a8efe17ea46, type: 3}
+    dialogueText: "Up to you. Trust your speed? Take Speed. Handling tough sections?
+      Agility\u2019s safer. Balanced? It\u2019s a mix\u2014just stick to your plan."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 6b461892c10f4d948b586ccaa06fff2f, type: 3}
+    dialogueText: "Xeno\u2019s gonna be tough, huh?"
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 976ee25b284cf504bafd03b7187d90d6, type: 3}
+    dialogueText: "Xeno\u2019s always tough, but you\u2019ve got something he doesn\u2019t\u2014fun
+      and guts. Don\u2019t let him mess with your head. It\u2019s your race. Make
+      the right calls, and you win."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: cc5629c19f7263e4b918b9646c3e88ca, type: 3}
+    dialogueText: Time to claim that Golden Banana!

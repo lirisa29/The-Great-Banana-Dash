@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b594af7af423404283dabf6753d5ef7, type: 3}
+  m_Name: BeginnerDialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 728a7553a4a4a5a488af948ac1bc7b20, type: 3}
+    dialogueText: "Welcome to the Jungle League, kid. No more solo runs\u2014you're
+      up against the best. These monkeys are tough, so stay sharp."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 077e800efe323a5409b1954450fe3dc0, type: 3}
+    dialogueText: Bring it on! Who am I up against?
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 2e8c0bbcf94668641980cc86502a3730, type: 3}
+    dialogueText: "Zara's fast, but tight corners trip her up. Max can fly on straightaways
+      but struggles with turns. Luna\u2019s got crazy reflexes, but she\u2019s no
+      speed demon."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: f16d5b1f132de7543905829e075f2043, type: 3}
+    dialogueText: So, track conditions are key?
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 3169af8e2c1b3a44ea14ab4388c44f10, type: 3}
+    dialogueText: "Exactly. It\u2019s not just speed\u2014take those curves slow,
+      avoid overdriving, and stay in rhythm."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 85d1e5c52ea93ee40b6e7291ce0b376d, type: 3}
+    dialogueText: "Looks like I\u2019ve got my hands full."
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: ecdc88e4974ebf3428b7737aa7998344, type: 3}
+    dialogueText: You will. But after this race, keep an eye on Xeno.
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 6904e1c205a6caf4aa2144afe46e987b, type: 3}
+    dialogueText: "Xeno? Who\u2019s that?"
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 69bac5ffa18463c41ac19f6f7083f5ea, type: 3}
+    dialogueText: "Xeno\u2019s a mystery\u2014calm, never makes mistakes, and no
+      one's ever beaten him. He might seem chill, but he\u2019s got skills."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 4d0ca6b26d92c4f4a9b970453a65c5e3, type: 3}
+    dialogueText: "Great. I\u2019ll need my A-game for that."
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: b5b0a1a8f66a3d049a0dbc797f7aa459, type: 3}
+    dialogueText: "You\u2019ll need more than that\u2014Xeno\u2019s always lurking."

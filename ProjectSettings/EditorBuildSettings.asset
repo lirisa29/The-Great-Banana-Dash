@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 90ed7b355c6b0094c948be86cfd8e62d
+  - enabled: 1
+    path: Assets/Scenes/Checkpoint_Race_Dialogue.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Checkpoint_Race.unity
+    guid: 331850ec3aaf5344c8d510152acdd96a
+  - enabled: 1
+    path: Assets/Scenes/Beginner_Race_Dialogue.unity
+    guid: 6fbeb8a65e1ef9a4681a1083356b5ec4
+  - enabled: 1
+    path: Assets/Scenes/Beginner_Race.unity
+    guid: d8364440260292749b6d4c467f248a57
+  - enabled: 1
+    path: Assets/Scenes/Advanced_Race_Dialogue.unity
+    guid: 995e16c2a302b0d41a9e5a4133b1c4d6
+  - enabled: 1
+    path: Assets/Scenes/Advanced_Race.unity
+    guid: 04f5e62aff2295b44a888c47e9e3b7dd
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 883b37088cca10741915d9b50831f93a, type: 3}
+  m_UseUCBPForAssetBundles: 0

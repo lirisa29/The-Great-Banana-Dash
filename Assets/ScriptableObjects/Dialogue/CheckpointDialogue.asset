@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b594af7af423404283dabf6753d5ef7, type: 3}
+  m_Name: CheckpointDialogue
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: c4a8d30ccde49424d814bfc8203a87f0, type: 3}
+    dialogueText: Alright, kid, time for the Monkey Trials!
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: 75df920a6199e314cbf459ec639a5cf4, type: 3}
+    dialogueText: "I\u2019m ready! What should I expect?"
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 7a5f68b05c6db704db56e347d81eb55b, type: 3}
+    dialogueText: "Solo challenge\u2014race the clock, not other racers. Your kart's
+      your buddy, but watch out for sharp turns and logs that\u2019ll mess you up.
+      Stay cool and focus."
+  - speaker: {fileID: 11400000, guid: 725c88a62d8771746ad40e73ea9c70b4, type: 2}
+    audioClip: {fileID: 8300000, guid: bc6125404c084294697e22153e9a1959, type: 3}
+    dialogueText: "Got it, Rocco! The jungle\u2019s in for a surprise!"
+  - speaker: {fileID: 11400000, guid: 1114c0d30228e0245ae90d163b06e6df, type: 2}
+    audioClip: {fileID: 8300000, guid: 6f32738c0923c3746add8f21f295ef77, type: 3}
+    dialogueText: "I like that attitude, but remember\u2014the jungle's wild. Control
+      your kart, and if you nail this, you\u2019ll be set for the real race!"
