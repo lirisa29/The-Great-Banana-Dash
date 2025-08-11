@@ -10,6 +10,7 @@ I created custom lighting setups, post-processing effects, and skyboxes crafted 
 Additionally, I sourced all background music and sound effects from Pixabay, integrating them carefully to complement the game’s pacing and feel.
 ## Key Design Decisions and Features
 **Game Concept and Theme**
+
 I chose to develop The Great Banana Dash as a vibrant 3D kart racing game set in a lush jungle environment. This concept allowed me to combine a fun, approachable theme with the technical challenge of implementing complex data structures and gameplay mechanics.
 
 The jungle and monkey theme gave me creative freedom to design colourful, dynamic tracks that stand out visually and offer varied racing experiences. It also allowed for playful mechanics like banana collection and drifting boosts, which add depth and player engagement without overwhelming complexity.
