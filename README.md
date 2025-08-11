@@ -1,7 +1,13 @@
 # The-Great-Banana-Dash
 GADE7321 POE
 ## Overview
-This project is a 3D racing game developed using Unity. It demonstrates my skills in game development while focusing heavily on the application of data structures and algorithms. The game features real-time racing with physics-based vehicle controls and incorporates advanced data structures for game mechanics, AI decision-making, and pathfinding.
+The Great Banana Dash is a 3D racing game developed entirely by me using Unity. This project demonstrates my skills in game development with a particular focus on applying data structures and algorithms to enhance gameplay, AI behaviour, and game mechanics.
+
+Beyond programming, I designed and built all the maps and tracks, modeled and textured them using Blender with vector colouring and Shader Graph techniques. Most props were sourced from the Unity Asset Store, but the overall level design and environment composition are my original work.
+
+I created custom lighting setups, post-processing effects, and skyboxes crafted in Photoshop to establish a unique visual atmosphere. All UI elements were designed from scratch using Photoshop alongside AI-assisted tools, contributing to a polished player experience.
+
+Additionally, I sourced all background music and sound effects from Pixabay, integrating them carefully to complement the game’s pacing and feel.
 ## Key Data Structures and Design Patterns Used
 
 1. **Queue ADT** – *Dialogue System*  
